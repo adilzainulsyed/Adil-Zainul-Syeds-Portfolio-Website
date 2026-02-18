@@ -1,0 +1,255 @@
+<portfolio_prompt>
+Create a highly gamified, hacker–gamer themed portfolio website for **Adil Zainul Syed**, combining the feel of a **2D pixel-style game interface** with the **clean, elegant, minimal aesthetic of GitHub’s UI**. The result should feel like a **professional hacker dashboard that doubles as a playable game world**.
+
+The site must be:
+
+* Gamified and interactive
+* Elegant and minimal
+* Inspired by GitHub’s dark UI
+* With subtle pixel or game-like elements
+* Immersive but not childish
+* Clean, readable, and professional
+
+The experience should feel like:
+
+* A hacker navigating a digital world
+* A developer console that transforms into game levels
+* A modern cyberpunk command center
+* A mix of terminal UI, pixel elements, and elegant panels
+
+---
+
+## VISUAL STYLE
+
+Core theme:
+
+* Dark GitHub-style interface
+* Hacker aesthetic
+* Subtle pixel-art or retro UI elements
+* Neon accents used sparingly
+
+Color palette:
+
+* Background: deep charcoal or GitHub dark gray
+* Panels: slightly lighter gray with soft shadows
+* Accent colors: electric blue, cyan, subtle green
+* Minimal gradients
+
+Typography:
+
+* Clean modern sans-serif for headings
+* Monospace font for terminal-style elements
+
+UI elements:
+
+* Glass or flat panels like GitHub cards
+* Soft glow on hover
+* Terminal-style sections
+* Pixel-inspired icons or small UI details
+
+---
+
+## OVERALL CONCEPT
+
+The site is a **Hacker Command Interface** where the visitor navigates through different “modules” or “zones” representing parts of the portfolio.
+
+Navigation feels like:
+
+* Switching between system modules
+* Unlocking developer missions
+* Exploring a digital environment
+
+---
+
+## WEBSITE STRUCTURE
+
+### 1️⃣ Home – System Login Screen
+
+Hero section designed like a hacker dashboard.
+
+Include:
+
+* Profile photo inside a circular or hexagonal frame
+* Name: **Adil Zainul Syed**
+* Title: *AI & Full-Stack Developer*
+* Short bio:
+
+“Ambitious Computer Science student passionate about building scalable, impactful software. Experienced in full-stack development, AI/ML tools, with strong foundations in data structures and algorithms.”
+
+Elements:
+
+* Terminal-style animated text:
+
+  > Initializing developer profile…
+  > Loading skill modules…
+  > Access granted.
+
+Buttons:
+
+* View Projects
+* Enter System
+
+Background:
+
+* Subtle grid or code-like animation
+
+---
+
+### 2️⃣ About – Developer Profile
+
+Styled like a GitHub-style profile card.
+
+Content:
+
+* BTech Computer Science
+  Manipal Institute of Technology (2024–2028)
+  CGPA: 8.90
+* Navkis Educational Centre
+  XII Grade: 93.4% (PCMC)
+
+Design:
+
+* Clean card layout
+* Timeline or stacked panels
+* Minimal icons
+
+Gamified touch:
+
+* XP progress bar under education
+
+---
+
+### 3️⃣ Skills – Skill Matrix
+
+Display skills like a **developer skill dashboard**.
+
+Categories:
+
+* Programming: Java, Python, C, C++
+* Web: React, Node.js, Express, FastAPI, REST APIs
+* Databases: MySQL, MongoDB, Oracle SQL
+* AI/ML: TensorFlow, OpenCV, MediaPipe, spaCy, scikit-learn
+
+Design:
+
+* GitHub-style cards
+* Skill tags like repository topics
+* Animated progress bars
+* Hover glow
+
+Gamified element:
+
+* Skill levels shown as bars or nodes
+
+---
+
+### 4️⃣ Experience – Mission Log
+
+Rename Experience to **Mission Log**.
+
+Missions:
+
+* Founder & Lead Developer – Fertig Platform (2025–Present)
+* Intern Trainee – India Space Academy (Jul–Aug 2025)
+* Student Coordinator – MITBLR (2026–Present)
+* Volunteer – VSO (2024–Present)
+
+Design:
+
+* Vertical timeline
+* Terminal-style expandable logs
+* Clean card panels
+
+---
+
+### 5️⃣ Projects – Repository Vault
+
+Projects styled like **GitHub repositories**.
+
+Projects:
+
+1. Fertig – AI Study Platform
+2. Drowsiness Detection System
+3. Credit Card Fraud Detection ML Model
+
+Each project card should show:
+
+* Project name
+* Description
+* Tech stack tags
+* GitHub button
+* Hover highlight
+
+Gamified element:
+
+* “Unlock repository” animation on click
+
+---
+
+### 6️⃣ Achievements – Badge Console
+
+Display achievements as developer badges:
+
+* Kaspersky CTF 2025 – 13th out of 716 teams
+* Zenith Hackathon 2026 – Top 32 of 1000+ teams
+* CBSE XII – School Topper (93.4%)
+
+Design:
+
+* Clean badge cards
+* Subtle glow
+* GitHub-style layout
+
+---
+
+### 7️⃣ Contact – Command Terminal
+
+Styled like a hacker console.
+
+Include:
+
+* Phone
+* Email
+* GitHub
+* LinkedIn
+
+Design:
+
+* Terminal-style contact form
+* Monospace font
+* “Send Transmission” button
+* Subtle typing animation
+
+---
+
+## INTERACTIONS & ANIMATIONS
+
+* Smooth scroll transitions
+* Terminal typing effects
+* Subtle hover glows
+* Repository card animations
+* Section transitions like system modules loading
+* Minimal pixel effects for gamified feel
+
+---
+
+## TECHNICAL & UX REQUIREMENTS
+
+* Fully responsive
+* Fast loading
+* Clean layout
+* Easy navigation
+* Maintain professional tone
+* No cluttered or childish graphics
+
+---
+
+## FINAL GOAL
+
+The portfolio should feel like:
+
+* A hacker’s personal command center
+* A GitHub-inspired developer interface
+* A subtle game world hidden inside a professional UI
+* A memorable, elegant, and interactive developer portfolio
+  </portfolio_prompt>
