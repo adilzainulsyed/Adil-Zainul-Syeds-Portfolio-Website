@@ -13,7 +13,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { GlitchText } from "@/components/ui/glitch-text";
-import { Terminal, ExternalLink, Cpu, Shield, Trophy, Award, Github, Linkedin, Mail } from "lucide-react";
+import { Terminal, ExternalLink, Cpu, Shield, Trophy, Award, Github, Linkedin, Mail, Database } from "lucide-react";
 import aboutImg from "@assets/IMG_0038_1771419892432.JPG";
 
 export default function Home() {
