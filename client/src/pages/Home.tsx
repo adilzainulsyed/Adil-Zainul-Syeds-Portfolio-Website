@@ -14,7 +14,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { GlitchText } from "@/components/ui/glitch-text";
 import { Terminal, ExternalLink, Cpu, Shield, Trophy, Award, Github, Linkedin, Mail, Database } from "lucide-react";
-import aboutImg from "@assets/IMG_0038_1771419892432.JPG";
+import aboutImg from "@assets/DSC05777.JPG";
 
 export default function Home() {
   const { mutate, isPending } = useSubmitContact();

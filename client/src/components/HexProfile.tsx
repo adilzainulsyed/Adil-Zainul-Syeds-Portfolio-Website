@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profileImg from "@assets/IMG_0039_1771419925704.JPG";
+import profileImg from "@assets/DSC04269.JPG";
 
 export function HexProfile() {
   return (
