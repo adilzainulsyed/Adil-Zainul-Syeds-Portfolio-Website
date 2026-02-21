@@ -8,7 +8,7 @@ const items = [
   { id: "skills", label: "Skills", icon: Code },
   { id: "projects", label: "Vault", icon: Database },
   { id: "achievements", label: "Badges", icon: Shield },
-  { id: "contact", label: "Uplink", icon: Mail },
+  { id: "contact", label: "Message me", icon: Mail },
 ];
 
 export function Navigation() {

@@ -29,7 +29,7 @@ export function useSubmitContact() {
     onSuccess: () => {
       toast({
         title: "TRANSMISSION SUCCESSFUL",
-        description: "Message uplink completed. Awaiting response.",
+        description: "Message sent. Awaiting response.",
         className: "border-primary text-primary bg-black font-mono",
       });
     },

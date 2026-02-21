@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
-import profileImg from "@assets/DSC04269.JPG";
+import profileImg from "@assets/DSC05777.JPG";
 
 export function HexProfile() {
   return (
-    <div className="relative w-64 h-64 md:w-80 md:h-80 mx-auto">
+    <div className="relative w-80 h-80 md:w-96 md:h-96 lg:w-[28rem] lg:h-[28rem] mx-auto">
       {/* Rotating outer ring */}
       <motion.div
         animate={{ rotate: 360 }}

@@ -14,7 +14,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { GlitchText } from "@/components/ui/glitch-text";
 import { Terminal, ExternalLink, Cpu, Shield, Trophy, Award, Github, Linkedin, Mail, Database } from "lucide-react";
-import aboutImg from "@assets/DSC05777.JPG";
+import aboutImg from "@assets/DSC04269.JPG";
 
 export default function Home() {
   const { mutate, isPending } = useSubmitContact();
@@ -57,10 +57,10 @@ export default function Home() {
             </div>
             
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              <GlitchText text="HELLO_WORLD" />
+              <GlitchText text="THIS IS" />
               <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary text-glow">
-                I AM A DEVELOPER
+                ADIL ZAINUL SYED
               </span>
             </h1>
 
@@ -95,7 +95,7 @@ export default function Home() {
                 onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
                 className="border-secondary text-secondary hover:bg-secondary/10 font-mono px-8 py-6 rounded-none"
               >
-                INITIATE UPLINK
+                MESSAGE ME
               </Button>
             </div>
           </motion.div>
@@ -388,17 +388,17 @@ export default function Home() {
                 </p>
 
                 <div className="space-y-4">
-                  <a href="#" className="flex items-center gap-3 text-muted-foreground hover:text-white transition-colors">
+                  <a href="https://github.com/adilzainulsyed" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-muted-foreground hover:text-white transition-colors">
                     <Github className="text-primary" />
-                    <span>github.com/developer</span>
+                    <span>github.com/adilzainulsyed</span>
                   </a>
-                  <a href="#" className="flex items-center gap-3 text-muted-foreground hover:text-white transition-colors">
+                  <a href="https://www.linkedin.com/in/adil-zainul-syed-7a6964309/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-muted-foreground hover:text-white transition-colors">
                     <Linkedin className="text-secondary" />
-                    <span>linkedin.com/in/developer</span>
+                    <span>linkedin.com/in/adil-zainul-syed-7a6964309</span>
                   </a>
-                  <a href="#" className="flex items-center gap-3 text-muted-foreground hover:text-white transition-colors">
+                  <a href="mailto:nameisadil02@gmail.com" className="flex items-center gap-3 text-muted-foreground hover:text-white transition-colors">
                     <Mail className="text-accent" />
-                    <span>contact@developer.com</span>
+                    <span>nameisadil02@gmail.com</span>
                   </a>
                 </div>
               </div>
