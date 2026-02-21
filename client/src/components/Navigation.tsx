@@ -52,7 +52,7 @@ export function Navigation() {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="font-mono font-bold text-xl text-primary flex items-center gap-2">
           <span className="animate-pulse">&gt;_</span>
-          <span>DEV.LOG</span>
+          <span>MY PORTFOLIO</span>
         </div>
 
         {/* Desktop Nav */}

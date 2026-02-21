@@ -326,6 +326,36 @@ export default function Home() {
                 <span className="text-xs font-mono bg-white/5 px-2 py-1">Pandas</span>
               </div>
             </CyberCard>
+
+            <CyberCard className="h-full flex flex-col">
+              <div className="flex justify-between items-start mb-4">
+                <Cpu className="text-primary" size={24} />
+                <span className="text-xs font-mono border border-primary/30 px-2 py-1 rounded text-primary/70">GAME</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">Musa's Adventure: Cuts and Bruises</h3>
+              <p className="text-sm text-muted-foreground mb-4 flex-1">
+                My first 2D RPG game completely made in Java!
+              </p>
+              <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-white/10">
+                <span className="text-xs font-mono bg-white/5 px-2 py-1">Java</span>
+              </div>
+            </CyberCard>
+
+            <CyberCard className="h-full flex flex-col" variant="secondary">
+              <div className="flex justify-between items-start mb-4">
+                <Terminal className="text-secondary" size={24} />
+                <span className="text-xs font-mono border border-secondary/30 px-2 py-1 rounded text-secondary/70">NETWORKING</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2 group-hover:text-secondary transition-colors">Socket Chat Application</h3>
+              <p className="text-sm text-muted-foreground mb-4 flex-1">
+                Implementation of client-server communication using TCP sockets where multiple clients can send and receive messages from a central server.
+              </p>
+              <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-white/10">
+                <span className="text-xs font-mono bg-white/5 px-2 py-1">Java</span>
+                <span className="text-xs font-mono bg-white/5 px-2 py-1">TCP/IP</span>
+                <span className="text-xs font-mono bg-white/5 px-2 py-1">Sockets</span>
+              </div>
+            </CyberCard>
           </div>
         </div>
       </section>

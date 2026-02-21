@@ -10,7 +10,11 @@ export const messages = pgTable("messages", {
   createdAt: timestamp("created_at").defaultNow(),
 });
 
-export const insertMessageSchema = createInsertSchema(messages).pick({
+export const insertMessageSchema = createInsertSchema(messages, {
+  name: z.string().min(1, "Name is required"),
+  email: z.string().email("Invalid email address"),
+  message: z.string().min(1, "Message is required"),
+}).pick({
   name: true,
   email: true,
   message: true,
